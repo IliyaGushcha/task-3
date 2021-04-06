@@ -1,3 +1,5 @@
+package com.gushcha.task3;
+
 import com.sun.org.apache.xerces.internal.impl.dv.util.HexBin;
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
